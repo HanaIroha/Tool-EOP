@@ -1,7 +1,0 @@
-﻿Ðầu tiên các bạn diền tên + mật khẩu EOP + key 
-(Trường hợp bạn nào pm mình khai báo tài khoản rồi thì không cần key)
-Sau đó bấm đăng nhập, đợi tẹo đến khi chữ đăng nhập thành công màu xanh hiện ra.
-Chọn học phần, bấm lấy infor rồi đợi đến khi có chữ Lấy infor thành công.
-Chọn thời gian làm 1 task(tgian làm 1 bài chứ không phải cả unit nhé)
-Nếu các bạn tích vào random time thì thời gian sẽ ngẫu nhiên từ cái trên xuống cái dưới.
-Bấm làm hết unit!
