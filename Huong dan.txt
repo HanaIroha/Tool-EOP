@@ -1,5 +1,4 @@
-﻿Chạy file ToolEOP.exe
-Ðầu tiên các bạn điền tên đăng nhập + mật khẩu
+﻿Ðầu tiên các bạn điền tên đăng nhập + mật khẩu
 Chọn học phần,Sau đó bấm đăng nhập, đợi tẹo đến khi chữ đăng nhập thành công màu xanh hiện ra.
 Chọn thời gian làm 1 task(tgian làm 1 bài chứ không phải cả unit nhé)
 Nếu các bạn tích vào random time thì thời gian sẽ ngẫu nhiên trong khoàng thời gian đó (min ở ô trên max ở ô dưới).
